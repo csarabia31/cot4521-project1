@@ -8,7 +8,7 @@ This project was done using Processing, so if you want to run:
     -Download Files and open using Processing
     -click run
     
-![image](https://user-images.githubusercontent.com/47034761/85881126-24a05780-b7ab-11ea-84fc-aa487572b1e7.png)
+
 
 
   
